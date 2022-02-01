@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#logIn{
+    position: absolute;
+    top: 20%;
+    right: 70px;
+    width: 500px;
+    height: 400px;
+    background-color: rgb(231, 211, 211);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+#img{
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    
+}
+
+#userName{
+    width: 200px;
+    height: 25px;
+    display: block;
+
+}
+
+#password{
+    width: 200px;
+    height: 25px;
+    display: block;
+}
+
+#logIn h2{
+    font-size: 50px;
+    text-align: center;
+}
+
+#logIn h3{
+    font-size: 35px;
+    text-align: center;
+}
+
+#logIn span{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#submit{
+    background-color: rgb(206, 155, 197);
+    color: black;
+    width: 80px;
+    height: 30px;
+    margin-top: 15px;
+    position: relative;
+    left: 40%;
+    border-radius: 18px;
+
+
+
+}
